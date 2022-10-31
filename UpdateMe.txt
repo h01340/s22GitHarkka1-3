@@ -3,5 +3,9 @@ Minna: tälläinen tästä nyt tuli
 Otto: juupase juu
 Rane: kyllä näin on
 Eli ei tämän kummempaa proosaa, kunhan vain jokainen päivittelee yhtäaikaa tätä tiedostoa.
+<<<<<<< HEAD
 Jesse: Päivitin.
 
+=======
+Louis: Se on hänes.
+>>>>>>> 791e8486218dac817a93a362f5d6b49a3153176b
